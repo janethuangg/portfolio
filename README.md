@@ -1,3 +1,3 @@
-# Janet Huang's Personal Portfolio Site
+# Janet Huang's Personal Website
 
 deployed here: https://janet-huang.herokuapp.com/
